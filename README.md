@@ -15,9 +15,9 @@ Run the [exe of the programm](https://github.com/k-samir/Automation-Tag-Scrapper
 All your tags are now in your clipboard.
 
 # Libraries used
-urlopen 1.26.4
-BeautifulSoup 4.9.3 
-pyperclip 1.8.2
+urlopen 1.26.4  
+BeautifulSoup 4.9.3   
+pyperclip 1.8.2  
 
 Version of Python : 3.8.8 
 
