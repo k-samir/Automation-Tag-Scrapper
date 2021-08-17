@@ -8,7 +8,7 @@ This is a tool to get all the tags from a RedBubble article using its url.
 
 ----------------
 ## How it works
-Run the [exe of the programm](https://docs.google.com/document/d/1ZtqhFwuuNymzyjvvDptcIIbRV_NNXb4CPYg6uDdT0ng/edit#), and paste the url in the terminal and press enter.
+Run the [exe of the programm](https://github.com/k-samir/Automation-Tag-Scrapper/blob/master/dist/automation.exe), and paste the url in the terminal and press enter.
 
 ![](https://github.com/k-samir/Automation-Tag-Scrapper/images/terminal.png)
 
